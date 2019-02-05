@@ -1,0 +1,2 @@
+
+    $link = mysqli_connect("localhost","id8055463_enterprises","ankitjain","id8055463_enterprises");
